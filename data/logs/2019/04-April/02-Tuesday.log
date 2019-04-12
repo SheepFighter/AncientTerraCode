@@ -1,0 +1,46 @@
+
+
+Starting up. 02:14.43
+---------------------
+
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading Banlist
+ACCESS: Logout: *no client*/(Urlance L M Woolsbane)
+ACCESS: Login: Urlance L M Woolsbane/(Loreto Mathews) from 127.0.0.1
+ADMIN: Urlance L M Woolsbane/(Loreto Mathews) deleted   at (0,0,0)
+ADMIN: Urlance L M Woolsbane/(Loreto Mathews) created a /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden
+ADMIN: Urlance L M Woolsbane/(Loreto Mathews) created a /obj/item/weapon/card/id/captains_spare
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+SAY: Ian/ : YAP
+SAY: Ian/ : Woof!
+ACCESS: Logout: Urlance L M Woolsbane/(Loreto Mathews)
+
+
+Starting up. 02:26.33
+---------------------
+
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading Banlist
+ADMIN: Urlance L M Woolsbane has started the game.
+ACCESS: Logout: *no client*/(Urlance L M Woolsbane)
+ACCESS: Login: Urlance L M Woolsbane/(Abraham Osteen) from 127.0.0.1
+ADMIN: Urlance L M Woolsbane/(Abraham Osteen) deleted   at (0,0,0)
+SAY: Urlance L M Woolsbane/(Abraham Osteen) has made a captain announcement: Test
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+SAY: Ian/ : Bark!
+SAY: Ian/ : AUUUUUU
+SAY: Ian/ : YAP
+ADMIN: Urlance L M Woolsbane/(Abraham Osteen) has entered build mode.
+ADMIN: Urlance L M Woolsbane/(Abraham Osteen) created an explosion (4,4,4,4) at (186,95,1)
+GAME: Explosion with size (4, 4, 4) in area Xenobiology Lab 
+ADMIN: Urlance L M Woolsbane/(Abraham Osteen) has toggled Urlance L M Woolsbane/(Abraham Osteen)'s nodamage to On
+ADMIN: Urlance L M Woolsbane/(Abraham Osteen) has left build mode.
+ACCESS: Logout: Urlance L M Woolsbane/(Abraham Osteen)

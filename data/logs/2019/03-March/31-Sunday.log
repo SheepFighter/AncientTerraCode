@@ -1,0 +1,79 @@
+
+
+Starting up. 21:45.07
+---------------------
+
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading Banlist
+SAY: Ian/ : Bark!
+ACCESS: Logout: *no client*/(Urlance L M Woolsbane)
+ACCESS: Login: Urlance L M Woolsbane/(Till Eulenspiegel) from 127.0.0.1
+ADMIN: Urlance L M Woolsbane/(Goose McSunny) teleported *no client*/(monkey (947))
+ADMIN: Urlance L M Woolsbane/(Goose McSunny) initiated a reboot.
+ACCESS: Logout: Urlance L M Woolsbane/(Goose McSunny)
+
+
+Starting up. 21:48.23
+---------------------
+
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading Banlist
+ADMIN: Urlance L M Woolsbane has started the game.
+ACCESS: Logout: *no client*/(Urlance L M Woolsbane)
+ACCESS: Login: Urlance L M Woolsbane/(Gerardo Greene) from 172.16.0.26
+ADMIN: Urlance L M Woolsbane/(Till Eulenspiegel) deleted   at (0,0,0)
+GAME: SQL ERROR during player polling. Failed to connect.
+ADMIN: Urlance L M Woolsbane/(Till Eulenspiegel) has toggled Urlance L M Woolsbane/(Till Eulenspiegel)'s nodamage to On
+ADMIN: Urlance L M Woolsbane/(Till Eulenspiegel) healed / revived Urlance L M Woolsbane/(Till Eulenspiegel)
+GAME: Explosion with size (0, 0, 1) in area Mech Bay 
+GAME: Explosion with size (0, 0, 1) in area Mech Bay 
+GAME: Explosion with size (0, 0, 1) in area Mech Bay 
+GAME: SQL ERROR during admin polling. Failed to connect.
+GAME: Explosion with size (0, 0, 1) in area Mech Bay 
+SAY: Runtime/ : Meow!
+GAME: Explosion with size (0, 0, 1) in area Mech Bay 
+ADMIN: Urlance L M Woolsbane/(Till Eulenspiegel) jumped to Urlance L M Woolsbane/(Till Eulenspiegel)
+ADMIN: Urlance L M Woolsbane/(Till Eulenspiegel) jumped to Toxin Lab
+ADMIN: Urlance L M Woolsbane/(Till Eulenspiegel) jumped to Genetics
+GAME: Explosion with size (0, 0, 1) in area Mech Bay 
+ADMIN: Urlance L M Woolsbane/(Till Eulenspiegel) healed / revived Urlance L M Woolsbane/(Till Eulenspiegel)
+ADMIN: Urlance L M Woolsbane/(Till Eulenspiegel) has toggled Urlance L M Woolsbane/(Till Eulenspiegel)'s nodamage to Off
+ADMIN: Urlance L M Woolsbane/(Till Eulenspiegel) created an explosion (1,1,1,1) at (88,150,1)
+GAME: Explosion with size (1, 1, 1) in area Waiting area 
+GAME: Explosion with size (0, 0, 1) in area Mech Bay 
+SAY: Runtime/ : HSSSSS
+ADMIN: Urlance L M Woolsbane/(Till Eulenspiegel) jumped to Mech Bay
+ADMIN: Urlance L M Woolsbane/(Till Eulenspiegel) jumped to Port Maintenance
+ADMIN: Urlance L M Woolsbane/(Till Eulenspiegel) jumped to Centcom Transport Shuttle
+SAY: Ian/ : YAP
+GAME: Rebooting because of no live players
+ACCESS: Logout: Urlance L M Woolsbane/(Till Eulenspiegel)
+
+
+Starting up. 21:59.08
+---------------------
+
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading Banlist
+SAY: Runtime/ : Esp!
+ADMIN: Urlance L M Woolsbane/(Urlance L M Woolsbane) jumped to 107,198,1 in Arrival Shuttle
+ACCESS: Logout: *no client*/(Urlance L M Woolsbane)
+ACCESS: Login: Urlance L M Woolsbane/(Linden Hynes) from 172.16.0.26
+ADMIN: Urlance L M Woolsbane/(Linden Hynes) deleted   at (0,0,0)
+ADMIN: Urlance L M Woolsbane/(Linden Hynes) jumped to 75,115,1 in Chapel
+ADMIN: Urlance L M Woolsbane/(Linden Hynes) jumped to 81,120,1 in Port Primary Hallway
+ADMIN: Urlance L M Woolsbane/(Linden Hynes) jumped to 75,80,1 in Port Primary Hallway
+ADMIN: Urlance L M Woolsbane/(Linden Hynes) jumped to 70,80,1 in Toxin Lab
+GAME: SQL ERROR during player polling. Failed to connect.
+ADMIN: Urlance L M Woolsbane/(Linden Hynes) jumped to Wizard's Den
+ADMIN: Urlance L M Woolsbane/(Linden Hynes) jumped to 188,110,3 in Wizard's Den
+ACCESS: Logout: Urlance L M Woolsbane/(Linden Hynes)

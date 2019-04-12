@@ -1,0 +1,13 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 1.000
+LAST_COMPILE_TIME: 1554197150
+UPDATE_OBJ_TREE: ON
+DIR: code code\ATMOSPHERICS code\datums code\defines code\defines\mob code\defines\mob\living code\defines\mob\living\carbon code\defines\obj code\defines\obj\clothing code\game code\game\gamemodes code\game\gamemodes\blob code\game\machinery code\game\objects code\modules code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\human code\unused code\unused\hivebot icons icons\Testing icons\turf maps 
+AUTO_FILE_DIR: ON
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 512.1466
+WINDOW: icons\misc\old_or_unused.dmi;icons\misc\old_or_unused_food.dmi;icons\mob\monkey.dmi;icons\mob\mob.dmi;icons\mob\mecha.dmi;icons\mob\organs.dmi;icons\mob\items_righthand.dmi;icons\mob\hivebot.dmi;icons\misc\largeui.dmi;icons\misc\beach2.dmi;icons\misc\inpipe.dmi;icons\mob\AI.dmi;icons\mob\ears.dmi;icons\mob\eyes.dmi;icons\mob\feet.dmi;icons\mob\hands.dmi;icons\mob\head.dmi;icons\mob\human.dmi;icons\mob\livestock.dmi;icons\mob\screen1_old.dmi;icons\mob\screen1_alien.dmi;icons\mob\uniform.dmi;icons\mob\xcomalien.dmi;icons\mob\zone_sel.dmi;icons\spideros_icons\sos_1.png;icons\spideros_icons\sos_11.png;icons\spideros_icons\sos_12.png;icons\spideros_icons\sos_3.png;icons\spideros_icons\sos_6.png;icons\turf\mineral_walls.dmi
+FILE: icons\turf\mineral_walls.dmi
+*/
+// END_INTERNALS
